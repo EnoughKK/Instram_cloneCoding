@@ -2,4 +2,4 @@
 
 ## 📖 Study
 
-bottomnavigationview 프래그먼트 적용
+bottomNavigationView 프래그먼트 적용
