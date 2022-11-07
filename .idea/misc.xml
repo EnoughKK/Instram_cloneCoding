@@ -6,15 +6,20 @@
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/drawable/ic__994415_account_avatar_person_profile_user_icon.xml" value="0.247" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.247" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.247" />
+        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/drawable/ic_baseline_photo_filter_24.xml" value="0.294" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.247" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/drawable/ic_launcher_background.xml" value="0.247" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/activity_main.xml" value="0.340625" />
+        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fargment_viewpager_page1.xml" value="0.3541666666666667" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_bottom_navigation.xml" value="0.26640625" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_home.xml" value="0.35520833333333335" />
-        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_profile.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_profile.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_search.xml" value="0.2905982905982906" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_test.xml" value="0.35520833333333335" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_transaction_root.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_viewpager_page1.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_viewpager_page2.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/layout/fragment_viewpager_page3.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/SeongYun/AndroidStudioProjects/UMC_week6/app/src/main/res/menu/menu.xml" value="0.35520833333333335" />
       </map>
     </option>

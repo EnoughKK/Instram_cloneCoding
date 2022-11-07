@@ -2,6 +2,7 @@ package com.example.umc_week6
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.umc_week6.Transaction.TransactionRootFragment
 import com.example.umc_week6.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

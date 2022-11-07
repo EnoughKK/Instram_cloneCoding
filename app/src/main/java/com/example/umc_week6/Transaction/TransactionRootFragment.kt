@@ -1,4 +1,4 @@
-package com.example.umc_week6
+package com.example.umc_week6.Transaction
 
 import android.content.Context
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.Fragment
+import com.example.umc_week6.R
 import com.example.umc_week6.databinding.FragmentTransactionRootBinding
 
 class TransactionRootFragment: Fragment() {

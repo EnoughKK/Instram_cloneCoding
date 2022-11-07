@@ -1,10 +1,14 @@
-package com.example.umc_week6
+package com.example.umc_week6.Transaction
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.example.umc_week6.NavigationPages.HomeFragment
+import com.example.umc_week6.NavigationPages.ProfileFragment
+import com.example.umc_week6.R
+import com.example.umc_week6.NavigationPages.SearchFragment
 import com.example.umc_week6.databinding.FragmentBottomNavigationBinding
 
 class BottomNavigationFragment: Fragment() {

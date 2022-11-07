@@ -1,23 +1,21 @@
-package com.example.umc_week6
+package com.example.umc_week6.ViewpagerPages
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.umc_week6.databinding.FragmentHomeBinding
-import com.example.umc_week6.databinding.FragmentSearchBinding
+import com.example.umc_week6.databinding.FragmentViewpagerPage3Binding
 
-class SearchFragment: Fragment() {
-    private lateinit var viewBinding: FragmentSearchBinding
+class ViewpagerPage3Fragment: Fragment() {
+    private lateinit var viewBinding: FragmentViewpagerPage3Binding
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        viewBinding = FragmentSearchBinding.inflate(inflater)
-
+        viewBinding = FragmentViewpagerPage3Binding.inflate(inflater)
         return viewBinding.root
     }
 
